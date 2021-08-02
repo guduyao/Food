@@ -1,0 +1,8 @@
+logs/last1.h5
+model_data/yolo_weights.h5
+model_data/ep079-loss6.334-val_loss8.487.h5
+model_data/ep080-loss6.368-val_loss8.465.h5
+model_data/last1.h5
+VOCdevkit/VOC2007/Annotations
+VOCdevkit/VOC2007/JPEGImages
+README.md

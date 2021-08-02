@@ -1,0 +1,8 @@
+dumplings
+hot_dog
+hamburger
+french_fries
+steak
+waffles
+caesar_salad
+chicken_wings
